@@ -16,13 +16,13 @@ body {
 }
 .v2_3 {
   width: 584px;
-  color: rgb(255, 38, 0);
+  color: rgb(0, 0, 0);
   position: absolute;
   top: 64px;
   left: 53px;
   font-family: Pilowlava;
   font-weight: Regular;
-  font-size: 48px;
+  font-size: 120px;
   opacity: 1;
   text-align: left;
 }
