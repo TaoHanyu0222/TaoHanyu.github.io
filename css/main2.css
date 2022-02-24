@@ -1,0 +1,17 @@
+
+element.style {
+}
+html {
+    box-sizing: border-box;
+    font-family: -apple-system, arial, sans-serif;
+    /* font-family: ui-monospace, monospace; */
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+user agent stylesheet
+html {
+    display: block;
+}
